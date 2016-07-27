@@ -16,9 +16,9 @@ List = [int (x)  for x in n.split()]
 FirstMaximumNum = max(List)
 List.remove(FirstMaximumNum)
 SecondMaximumNum = max(List)
-
 #print FirstMaximumNum
 #print SecondMaximumNum
+
 result = SecondMaximumNum * FirstMaximumNum
 print result
 
