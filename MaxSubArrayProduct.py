@@ -1,6 +1,8 @@
 # Uses python2
 """
   Program for Coursera   Algorithm Toolbox
+  Given a sequence of non-negative integers
+  a0,…,an−1, find the maximum pairwise produc
 
   Author: Lynn Lau
   Date: 2016/07/25
