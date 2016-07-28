@@ -11,13 +11,13 @@ Date: 2016/07/27
 """ 
 ''' Naive Algorithm '''
 def Calc_Fib_Lst(n):
-	FibList = [0,1]
+	FibList = [0, 1]
 	#print FibList
 	if n == 0:
 		return FibList[0]		
 	elif n == 1:
 	    return FibList[1]				
-	for n in range(2,n+1):
+	for n in range(2, n+1):
 		result = FibList[n-1] + FibList[n-2]
 		FibList.append(result)
 	#print FibList
@@ -28,13 +28,13 @@ print Calc_Fib_Lst(m)
 
 ''' Smart Algorithm '''
 def Calc_Fib_Lst(n):
-	FibList = [0,1]
+	FibList = [0, 1]
 	#print FibList
 	if n == 0:
 		return FibList[0]		
 	elif n == 1:
 	    return FibList[1]				
-	for n in range(2,n+1):
+	for n in range(2, n+1):
 		result = FibList[n-1]%10 + FibList[n-2]%10
 		FibList.append(result)
 	#print FibList

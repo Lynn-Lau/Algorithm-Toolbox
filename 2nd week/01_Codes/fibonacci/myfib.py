@@ -26,13 +26,13 @@ print Calc_Fib(n)
 
 """ This is a smart algorithm """
 def Calc_Fib(n):
-	FibList = [0,1]
+	FibList = [0, 1]
 	#print FibList
 	if n == 0:
 		return FibList[0]		
 	elif n == 1:
 	    return FibList[1]				
-	for n in range(2,n+1):
+	for n in range(2, n+1):
 		result = FibList[n-1] + FibList[n-2]
 		FibList.append(result)
 	#print FibList
