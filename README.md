@@ -26,6 +26,8 @@
 
 * 计算[Fibonacci数的最后一个数字](https://github.com/Lynn-Lau/Algorithm-Toolbox/blob/master/2nd%20week/01_Codes/fibonacci_last_digit/fibonacci_last_digit%20.py)，要求Fibonacci数比较大，比如23655阶Fibonacci数的最后一位数字。
 
+  *Sample* 1
+
   ```python
   Input: 239
   Output: 8
