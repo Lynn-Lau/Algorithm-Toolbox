@@ -1,5 +1,12 @@
 #Uses python2
-
+'''
+A Program for Data Structures and Algorithms
+* Minimum Dot Product *
+The goal is, given two sequences a1, a2, ... an 
+and b1, b2, ... , bn, find a permutation  of 
+the second sequence such that the dot product 
+of a1, a2, ... , an and b1, b2 , ... , bn is minimum. 
+'''
 user_input = raw_input()
 #print user_input
 alist = list()
