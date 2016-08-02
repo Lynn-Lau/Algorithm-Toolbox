@@ -73,5 +73,8 @@
   Output:1933053046
   ```
 
-  ​
 
+
+#### 3. The Third Week
+
+第三周主要介绍贪心算法（Greedy Algorithm）。
