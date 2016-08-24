@@ -1,6 +1,12 @@
 # Uses python2
 
 # binary search
+'''
+A simple program for Coursera Data structures and Algorithms
+
+Author:Lynn Lau
+Date:2016/08/24
+'''
 
 import sys
 
@@ -17,7 +23,7 @@ def my_binary_search(value, low, high, keys):
             else:
                 low = midValue + 1
                 # return my_binary_search(value, midValue+1, high, key)
-        key = key + 1
+        # key = key + 1
 
 if __name__ =='__main__':
     valueInput = list(map(int, raw_input().split()))
@@ -29,8 +35,4 @@ if __name__ =='__main__':
     high = number-1
 
     print my_binary_search(value, low, high, keys)
-    # print number
-    # print value
-    # print keys
-    # print low
-    # print high
+    # print number, value, print keys, print low, print high
