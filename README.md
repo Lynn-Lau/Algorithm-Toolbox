@@ -78,3 +78,17 @@
 #### 3. The Third Week
 
 第三周主要介绍贪心算法（Greedy Algorithm）。
+
+#### 4. Linked List
+
+文件夹中主要包括，链表的源代码，通过Python实现
+
+#### 5. Sorting
+
+数据结构于算法中经典的排序算法，通过C语言和Python语言实现。
+
+* [冒泡算法 bubble sort](https://github.com/Lynn-Lau/Algorithm-Toolbox/blob/master/Sorting/Bubble_Sorting.cpp)
+* [插入算法 insert sort](https://github.com/Lynn-Lau/Algorithm-Toolbox/blob/master/Sorting/Insert_Sorting.cpp)
+* [选择排序 selection sort](https://github.com/Lynn-Lau/Algorithm-Toolbox/blob/master/Sorting/Select_Sorting.cpp)
+* 快速排序
+
