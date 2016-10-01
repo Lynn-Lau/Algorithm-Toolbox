@@ -90,5 +90,5 @@
 * [冒泡算法 bubble sort](https://github.com/Lynn-Lau/Algorithm-Toolbox/blob/master/Sorting/Bubble_Sorting.cpp)
 * [插入算法 insert sort](https://github.com/Lynn-Lau/Algorithm-Toolbox/blob/master/Sorting/Insert_Sorting.cpp)
 * [选择排序 selection sort](https://github.com/Lynn-Lau/Algorithm-Toolbox/blob/master/Sorting/Select_Sorting.cpp)
-* 快速排序
+* [快速排序](https://github.com/Lynn-Lau/Algorithm-Toolbox/blob/master/Sorting/quicksort.py)
 
