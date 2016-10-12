@@ -92,3 +92,9 @@
 * [选择排序 selection sort](https://github.com/Lynn-Lau/Algorithm-Toolbox/blob/master/Sorting/Select_Sorting.cpp)
 * [快速排序](https://github.com/Lynn-Lau/Algorithm-Toolbox/blob/master/Sorting/quicksort.py)
 
+
+#### 6. Tree
+
+增加一章节，终于开始学习树的有关内容了。
+
+[Binary Tree](https://github.com/Lynn-Lau/Algorithm-Toolbox/blob/master/Tree/BinTree.py) 二叉树的代码，通过类方法实现。
